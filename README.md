@@ -1,4 +1,4 @@
-# Your Intensive Co-learning Name
+# TrustlessAgent[ERC-8004]
 
 ## Introduction
 
@@ -14,20 +14,20 @@ Target Audience placeholder
 
 ## Registration Period
 
-- Registration Start Date: 
-- Registration End Date: 
+- Registration Start Date: 2025-10-06
+- Registration End Date: 2025-10-12
 
 ## Study Duration
 
-- Study Start Date: 
-- Study End Date: 
+- Study Start Date: 2025-10-13
+- Study End Date: 2025-10-27
 
 ## Initiator
 
-- Name: 
-- GitHub ID: 
-- Telegram: 
-- Email: 
+- Name: RuoYam
+- GitHub ID: cmu-ruoyan-lgl
+- Telegram: ruoyan_ton
+- Email: cmu.liugelei@gmail.com
 
 ## Organizations
 
